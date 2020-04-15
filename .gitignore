@@ -1,0 +1,9 @@
+cuda-api-wrappers/
+matplotlibcpp/
+
+Debug/
+Release/
+
+.cproject
+.project
+.settings/
